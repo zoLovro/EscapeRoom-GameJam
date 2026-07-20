@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/lovrohk/RiderProjects/EscapeRoom-GameJam/Content/Textures/BlueTempBox.png","/Users/lovrohk/RiderProjects/EscapeRoom-GameJam/Content/bin/DesktopGL/Content/Textures/BlueTempBox.xnb","TextureProcessor","Texture2DContent",204,4181,0,045854
+"/Users/lovrohk/RiderProjects/EscapeRoom-GameJam/Content/Textures/PlayerImageTemp.png","/Users/lovrohk/RiderProjects/EscapeRoom-GameJam/Content/bin/DesktopGL/Content/Textures/PlayerImageTemp.xnb","TextureProcessor","Texture2DContent",624,65621,0,004993
