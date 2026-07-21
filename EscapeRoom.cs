@@ -58,8 +58,11 @@ public class EscapeRoom : Game
         
         // Picking up
         if (keyboardState.IsKeyDown(Keys.Space)) _player.TryGrabObject(_movableObjects);
-        if(_player.HeldObject != null) Console.WriteLine("Pusi kurac");
-
+        if (_player.HeldObject != null)
+        {
+            _player.HeldObject.Position = _player.Position;
+        }
+        
         base.Update(gameTime);
     }
 

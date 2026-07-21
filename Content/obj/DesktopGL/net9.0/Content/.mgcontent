@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/lovrohk/RiderProjects/EscapeRoom-GameJam/Content/Textures/BlueTempBox.png</File>
-    <File>/Users/lovrohk/RiderProjects/EscapeRoom-GameJam/Content/Textures/PlayerImageTemp.png</File>
+    <File>C:/Users/lovro/Desktop/Projects/C#/EscapeRoom-GameJam/Content/Textures/BlueTempBox.png</File>
+    <File>C:/Users/lovro/Desktop/Projects/C#/EscapeRoom-GameJam/Content/Textures/PlayerImageTemp.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

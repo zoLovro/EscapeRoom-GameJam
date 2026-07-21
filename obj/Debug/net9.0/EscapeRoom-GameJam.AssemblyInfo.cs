@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EscapeRoom-GameJam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c63e2dd802ca9110060f4dea9955db6896ea1ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("EscapeRoom-GameJam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EscapeRoom-GameJam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
